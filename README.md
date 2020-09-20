@@ -1,4 +1,20 @@
-### Hi there 👋
+## Hello, I'm Rory. 👋
+### Professional
+I am currently a data analyst for a government regulator in the UK. I previously worked in a similar role in the non-profit sector.
+
+### Personal ❤
+I live in London, UK with my wife and two cats.
+
+### Tools 🔨
+I mostly use R for work and personal projects but I am (slowly) learning Python to add a bit of diversity to my toolkit.
+
+### Interests 🗳
+My background is in political science and I have an interest in democracy promotion and the partication of disabled people in liberal democracies.
+
+- 😄 Pronouns: He/Him
+- 👯 I’m looking to collaborate on ... political data science projects.
+- 🌱 I’m currently learning ... Python for data science.
+- 💬 Ask me about ... R
 
 <!--
 **hello-im-rory/hello-im-rory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
