@@ -2,7 +2,7 @@
 ### Personal ❤
 I live in London, UK with my wife and two cats.
 
-### Professional
+### Professional 🏢
 I am currently a data analyst for a government regulator in the UK. I previously worked in a similar role in the non-profit sector.
 
 ### Tools 🔨
