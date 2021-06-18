@@ -3,10 +3,10 @@
 I live in London, UK with my wife and two cats.
 
 ### Professional 🏢
-I am currently a data analyst for a government regulator in the UK. I previously worked in a similar role in the non-profit sector.
+I am currently a data analyst for a financial regulator in the UK. I previously worked in a similar role in the non-profit sector.
 
 ### Tools 🔨
-I mostly use R for work and personal projects but I am (slowly) learning Python to add a bit of diversity to my toolkit.
+I mainly use R for work and personal projects with proficiency in base R, data.table and tidyverse workflows.
 
 ### Interests 🗳
 My background is in political science and I have an interest in democracy promotion and the partication of disabled people in liberal democracies.
