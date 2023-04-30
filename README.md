@@ -1,9 +1,9 @@
 ## Hello, I'm Rory. 👋
 ### Personal ❤
-I live in London, UK with my wife and two cats.
+I live in Washington, DC with my wife and two cats. I'm originally from London, UK.
 
 ### Professional 🏢
-I am currently a data analyst for a financial regulator in the UK. I previously worked in a similar role in the non-profit sector.
+I am currently a data analyst within DC Government. I previously worked in a similar role in the non-profit sector and a regulatory body in the UK.
 
 ### Tools 🔨
 I mainly use R for work and personal projects with proficiency in base R, data.table and tidyverse workflows.
@@ -12,8 +12,6 @@ I mainly use R for work and personal projects with proficiency in base R, data.t
 My background is in political science and I have an interest in democracy promotion and the partication of disabled people in liberal democracies.
 
 - 😄 Pronouns: He/Him
-- 👯 I’m looking to collaborate on ... political data science projects.
-- 🌱 I’m currently learning ... Python for data science.
 - 💬 Ask me about ... R
 
 <!--
