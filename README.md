@@ -8,9 +8,6 @@ I am currently a data analyst within DC Government. I previously worked in a sim
 ### Tools 🔨
 I mainly use R for work and personal projects with proficiency in base R, data.table and tidyverse workflows.
 
-### Interests 🗳
-My background is in political science and I have an interest in democracy promotion and the partication of disabled people in liberal democracies.
-
 - 😄 Pronouns: He/Him
 - 💬 Ask me about ... R
 
