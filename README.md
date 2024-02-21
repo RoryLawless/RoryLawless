@@ -18,7 +18,7 @@ Key libraries and other tools used:
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning lisp
 - 📫 How to reach me:
-    - 🐘 <a rel="me" href="https://mastodon.social/@ror">Mastodon</a>
+    - 🐘 <a rel="nofollow me" href="https://mastodon.social/@ror">Mastodon</a>
 
 <!--
 **RoryLawless/RoryLawless* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
