@@ -1,5 +1,5 @@
 ## Hello, I'm Rory. 👋
-### Personal ❤
+### Personal ❤️
 Originally from London, UK, I currently live in Washington, DC with my wife.
 
 ### Professional 🏢
@@ -9,20 +9,15 @@ I am a Data Analyst within the Office of the Deputy Mayor for Education in DC Go
 I primarily use R and SQL in my work. I have used AWS tools like S3 and Redshift for processing, storing and analyzing big data (50bn+ rows).
 
 Key libraries and other tools used:
-- {sf} for spacial analysis
+- {sf} for spatial analysis
 - {ggplot2} for visualizations
 - {tidyverse} or {data.table} for wrangling and analysis
 - Quarto for reports and presentations
-
-### Other stuff
-- 😄 Pronouns: He/Him
-- 🌱 I’m currently learning lisp
 
 <!--
 **RoryLawless/RoryLawless* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
